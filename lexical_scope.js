@@ -3,7 +3,7 @@ function first(){
     var b = "How are you  ";
     second();
     function second(){
-        var c = "Myself Megha Kashyap"
+        var c = "Myself Muskan Valmikee."
         console.log(a,b,c)
     }
 
